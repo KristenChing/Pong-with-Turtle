@@ -1,7 +1,8 @@
 from turtle import *
 from random import *
 
-# Testing Github by adding this comment.
+# Testing Github by adding this comment
+# And another.
 
 tracer(False)
 Screen().setup(480, 360)
